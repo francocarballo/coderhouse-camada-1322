@@ -1,0 +1,113 @@
+body {
+	text-align: center;
+	color: #1b1b1b;
+  	font-family: "Raleway",sans-serif;
+  	font-size: 14px;
+}
+h1 {
+	font-size: 30px;
+}
+header img {
+	float: left;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 150px;
+}
+header nav {
+	text-align: right;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	padding-right: 150px;
+}
+header nav a {
+	font-weight: bold;
+	text-decoration: none;
+	color: black;
+	padding: 10px;
+}
+.contact {
+	background-image: url("../Images/indexbanner-bg2.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	min-height: 400px;
+	color: white;
+}
+.contact h1{
+	padding-top: 160px;
+}
+.contact p {
+	line-height: 150%;
+}
+.getintouch {
+	padding-top: 20px;
+}
+.form-section {
+	display: inline-flex;
+}
+.form {
+	padding: 10px;
+}
+.form input {
+	height: 30px;
+	width: 300px;
+	border-color: lightgrey;
+	border-radius: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.textarea {
+	padding: 10px;
+}
+.textarea textarea {
+	height: 131px;
+	width: 300px;
+	border-color: lightgrey;
+	border-radius: 5px;
+	padding: 5px;
+}
+.button {
+	padding-bottom: 50px;
+}
+.button input {
+	box-shadow: 3px 3px 3px 3px grey;
+	background-color: #00adf2;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border: solid;
+    border-radius: 5px;
+    border-color: #00adf2;
+}
+.footer-banner {
+	color: white;
+	text-align: center;
+	background-color: #2b447c;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}	
+footer {
+    background-color: #00173d;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+footer p {
+	color: white;
+	float: left;
+	padding-left: 150px;
+}
+footer nav {
+	float: right;
+	padding-right: 150px;
+}
+footer nav a {
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
+	padding: 10px
+} 

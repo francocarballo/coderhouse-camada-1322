@@ -1,0 +1,209 @@
+body{
+	color: #1b1b1b;
+  	font-family: "Raleway",sans-serif;
+  	font-size: 14px;
+ 	margin: 0;
+  	padding: 0;
+  	box-sizing: border-box;
+}
+header img {
+	float: left;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 150px;
+}
+header nav {
+	text-align: right;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	padding-right: 150px;
+}
+header nav a {
+	font-weight: bold;
+	text-decoration: none;
+	color: black;
+	padding: 10px;
+}
+ul {
+  list-style-type: none;
+}
+.header-banner {
+	background-image: url("../Images/indexbanner.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	min-height: 528px;
+}
+.header-banner {
+	text-align: center;
+}
+.header-banner form {
+	display: inline-block;
+}
+.search {
+	text-align: center;
+	padding-top: 510px;
+
+}
+.search input {
+	background-color: white;
+	width: 400px;
+	padding-right: 10px;
+	padding-left: 10px;
+	height: 40px;
+	text-align: left;
+}
+.button input {
+	background-color: #00adf2;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border: solid;
+    border-color: #00adf2;
+}
+.about-us {
+	padding-top: 50px;
+	text-align: center;
+}
+.about-us article {
+	display: inline-block;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.threedot {
+	text-align: center;
+}
+.services {
+	text-align: center;
+}
+.services h2 {
+	font-size: 30px;
+}
+.service-articles article {
+	display: inline-block;
+	vertical-align: text-top;
+}
+.phone {
+	padding-right:20px; 
+	padding-left:50px;
+}
+.article-right li {
+	padding-top: 40px;
+}
+.article-right h4 {
+	text-align: left;
+	padding-left: 70px;
+}
+.article-right p {
+	text-align: left;
+	padding-left: 70px;
+}
+.article-right img {
+	float: left;
+}
+.article-left li {
+	padding-top: 40px;
+}
+.article-left h4 {
+	text-align: right;
+	padding-right: 70px;
+}
+.article-left p {
+	text-align: right;
+	padding-right: 70px;
+}
+.article-left img{
+	float: right;
+}
+.pricing {
+	text-align: center;
+}
+.pricing-banner {
+	background-image: url("../Images/pricing-bg.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 400px;
+}
+.pricing-banner img {
+	padding-top: 150px;
+}
+.pricing-banner h2 {
+	font-size: 30px;
+}
+.packs {
+	box-shadow: 3px 3px 3px 3px grey;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+.pricing article {
+	display: inline-block;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 20px;
+}
+.pack-button {
+	background-color: #00adf2;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    border: 2px solid;
+    border-radius: 5px
+}
+.footer-banner {
+	color: white;
+	text-align: center;
+	background-color: #2b447c;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.p {
+	float: left;
+}
+.nro-1 {
+	color: blue;
+	float: right;
+	padding-left: 50px;
+}
+.nro-2 {
+	color: green;
+	float: right;
+	padding-left: 50px;
+}
+.nro-3 {
+	color: orange;
+	float: right;
+	padding-left: 50px;
+}
+.nro-4 {
+	color: red;
+	float: right;
+	padding-left: 50px;
+}
+footer {
+    background-color: #00173d;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+footer p {
+	color: white;
+	float: left;
+	padding-left: 150px;
+}
+footer nav {
+	float: right;
+	padding-right: 150px;
+}
+footer nav a {
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
+	padding: 10px
+} 
